@@ -1,0 +1,18 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "Hello js",
+  "main": "index.js",
+  "scripts": {
+    "test": "20010617"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Main js"
+  },
+  "keywords": [
+    "20010617"
+  ],
+  "author": "Anvarbek Sanakulov",
+  "license": "ISC"
+}
